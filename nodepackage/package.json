@@ -1,0 +1,11 @@
+{
+  "name": "node-package",
+  "version": "1.0.1",
+  "description": "Assignment of learn type script 5 may 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FazanArshad",
+  "license": "ISC"
+}
